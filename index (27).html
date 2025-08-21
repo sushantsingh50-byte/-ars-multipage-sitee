@@ -1,0 +1,14 @@
+index.html
+about.html
+courses.html
+fees.html
+faculty.html
+gallery.html
+timetable.html
+admission.html
+login.html
+ai.html
+contact.html
+testimonials.html
+style.css
+script.js
